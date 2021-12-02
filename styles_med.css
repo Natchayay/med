@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;700&display=swap");
+
+body {
+  font-family: "Bai Jamjuree", sans-serif;
+}
+
+.btn-coler {
+  background: linear-gradient(180deg, #d15fee 0%, #9a32cd 100%);
+}
+
+.center-align {
+  font-family: "Bai Jamjuree", sans-serif;
+  font-size: 30px;
+  padding: 2rem;
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.information-1 {
+  padding: 1.5rem 1rem 1.5rem 3rem;
+  margin: 0rem 2rem 5rem 5rem;
+}
+
+.information-2 {
+  padding: 3rem;
+  margin: 0rem 2rem 5rem 5rem;
+}
+
+.card-title {
+  margin-left: 5rem;
+  font-size: 20px;
+}
+
+input,
+select {
+  border: none;
+  border-bottom: 1px solid black;
+  line-height: 1rem;
+}
+
+.table {
+  text-align: center;
+  width: 100%;
+  table-layout: auto;
+}
+
+tbody {
+  text-align: left;
+}
+
+.time {
+  width: 10rem;
+  margin-bottom: 2rem;
+}
+
+.gap {
+  margin: 1rem;
+}
+
+.overflow-auto {
+  height: 30rem;
+}
