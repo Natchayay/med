@@ -121,6 +121,38 @@ thead {
 tbody {
   background-color: white;
 }
+/* -------------------------------------------- */
+
+.information-popup a {
+  text-decoration: none;
+  color: black;
+}
+
+.w3-center h5 {
+  font-family: "Bai Jamjuree", sans-serif;
+}
+
+.item-information {
+  display: flex;
+  flex-direction: row;
+}
+
+.information-text {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.img-medicine {
+  display: flex;
+  justify-content: center;
+}
+
+.img-medicine img {
+  margin: 1em 1em;
+}
+
+/* --------------------------------------------- */
 
 .btn-last {
   width: 100px;
@@ -128,3 +160,4 @@ tbody {
   background: linear-gradient(180deg, #d15fee 0%, #9a32cd 100%);
   border-radius: 10px;
 }
+
